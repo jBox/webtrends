@@ -1,0 +1,24 @@
+{
+  "name": "webtrends",
+  "version": "0.0.1",
+  "description": "A package wrap WebTrends Tag. https://help.webtrends.com/en/jstag/",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jBox/webtrends.git"
+  },
+  "keywords": [
+    "WebTrends"
+  ],
+  "author": "jBox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jBox/webtrends/issues"
+  },
+  "homepage": "https://github.com/jBox/webtrends#readme"
+}
