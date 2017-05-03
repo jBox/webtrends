@@ -1,1 +1,0 @@
-module.exports = typeof WebTrends === "undefined" ? {} : WebTrends;
