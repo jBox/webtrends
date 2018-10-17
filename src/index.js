@@ -1,4 +1,4 @@
-const wt = typeof WebTrends !== "undefined" ? WebTrends : {
+const wt = typeof Webtrends !== "undefined" ? Webtrends : {
     multiTrack: () => console.error("multiTrack is undefined."),
     dcss: {}
 };
