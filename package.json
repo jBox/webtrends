@@ -1,6 +1,6 @@
 {
   "name": "webtrends",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "A package wrap WebTrends Tag. https://help.webtrends.com/en/jstag/",
   "main": "lib/index.js",
   "dependencies": {},
